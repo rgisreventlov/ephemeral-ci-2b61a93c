@@ -1,0 +1,1 @@
+{ "buildpacks":[{"url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku-community/null.tgz"}],"scripts":{"test-setup":"ls", "test":"ls"}}
